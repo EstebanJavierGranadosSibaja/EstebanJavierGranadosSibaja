@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Esteban Javer Granados Sibaja
 
 **Ingeniero en Sistemas en formación (3er año, UNA)** | Apasionado por **aprender, resolver problemas y aportar valor en proyectos innovadores**.  
 Soy un **desarrollador Fullstack** con inclinación hacia **frontend y desarrollo web**, siempre buscando nuevos retos y oportunidades para crecer y crear soluciones de impacto.
@@ -11,10 +11,10 @@ Soy un **desarrollador Fullstack** con inclinación hacia **frontend y desarroll
 C++, Java, C#, Python, JavaScript, TypeScript, Assembly, HTML, CSS  
 
 **Frameworks y Librerías:**  
-React, JavaFX, Vite, Remiz  
+React, JavaFX, Vite, Remix  
 
 **Bases de datos:**  
-Oracle, MariaDB, PostgreSQL  
+Oracle, MariaDB, PostgreSQL
 
 **DevOps y Cloud:**  
 Docker, Azure, AWS  
@@ -34,13 +34,5 @@ Git, GitHub, VS Code, herramientas de testing y CI/CD
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
-- [Correo electrónico](mailto:tu-email@example.com)  
-- [Portfolio / Proyectos](https://tu-portfolio.com)  
-
----
-
-## 🚀 Stats (opcional)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+- [LinkedIn](https://www.linkedin.com/in/esteban-granados-sibaja-50923b173/)  
+- [Correo electrónico](mailto:estebangranados147@gmail.com)  
